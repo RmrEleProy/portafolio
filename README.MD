@@ -1,4 +1,4 @@
-# Portafolio Personal de ROYMER JAVIER LOPEZ CASGTRO
+# Portafolio Personal de ROYMER JAVIER LOPEZ CASTRO
 
 ## Acerca de mí
 
