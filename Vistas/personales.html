@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+{{template "cabeza"}}
+
+<body>
+    {{template "cabecera"}}
+    <main>
+        <ul class="contenedor__botones">
+            <a href="/" class="button ">Home<i class="ri-home-8-fill"></i></a>
+            <button class="button filter-tab-active" data-target="#sirbus" id="btnsirbus">Proyecto Sirbus</button>
+            <button class="button" data-target="#controlmotobomba" id="btncontrolmoptobomba">Control Motobomba</button>
+            <button class="button" data-target="#soldadorpuntos" id="btnsoldapunto">Soldador de puntos</button>
+        </ul>
+        <div class="filters__sections">
+            <div class="projects__content grid filters__active" data-content id="sirbus">
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/sirbus/antena.JPG" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">antena</span>
+                        <h3 class="projects__title">Utilizado en la comunicacion con la pc</h3>
+                    </div>
+                </article>
+
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/sirbus/Estructura.jpg" alt="" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Chasis</span>
+                        <h3 class="projects__title">armazon del mini tanque</h3>
+                    </div>
+                </article>
+
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/sirbus/Estructura 2.jpg" alt="" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Chasis</span>
+                        <h3 class="projects__title">armazon del mini tanque</h3>
+                    </div>
+                </article>
+
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/sirbus/InterfasUsuario.jpg" alt="" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Interface de usuario</span>
+                        <h3 class="projects__title">Interfas con la que se realiza la comunicacion con el vehiculo</h3>
+                    </div>
+                </article>
+
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/sirbus/Piñoneria.jpg" alt="" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Piñoneria</span>
+                        <h3 class="projects__title">Piñones utilizados en el sistema de traccion</h3>
+                    </div>
+                </article>
+
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/sirbus/sirbus.jpg" alt="" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Sirbius</span>
+                        <h3 class="projects__title">Mini tanque finalizado</h3>
+                    </div>
+                </article>
+            </div>
+
+            <div class="projects__content grid filters__desactivated" data-content id="controlmotobomba">
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/control motobomba/control motobomba.jpg" alt="" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">control</span>
+                        <h3 class="projects__title">control utilizado para manejar el nivel de un tanque, y el encendido
+                            y apagado de una motobomba</h3>
+                    </div>
+                </article>
+            </div>
+
+            <div class="projects__content grid filters__desactivated" data-content id="soldadorpuntos">
+                <article class="projects__card">
+                    <img src="/static/media/img/Personales/soldador de puntos/soldador de puntos.jpg" alt="" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">soldador de puntos</span>
+                        <h3 class="projects__title">maquina utilizada para soldar baterias de litio 18650</h3>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </main>
+</body>
+{{template "footer"}}
+<script src="/static/js/script.js"></script>
+
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es">
+{{template "cabeza"}}
+
+<body>
+  <!-- HEADER PROFILE -->
+  {{template "cabecera"}}
+
+  <!-- MAIN CONTENT -->
+  <main class="contenedor__centralizando">
+    <section class="filters container">
+      <!-- FILTER TABS -->
+      <ul class="filters__contens">
+        <button class="filters__button filter-tab-active" data-target="#proyectos" id="btnproyectos">Proyectos</button>
+        <button class="filters__button" data-target="#habilidades" id="btnhabilidades">Habilidades</button>
+      </ul>
+      <div class="filters__sections">
+        <!-- PROYECTOS -->
+        <div class="projects__content grid filters__active" data-content id="proyectos">
+          <article class="projects__card">
+            <img src="/static/media/img/Personales/sirbus/prueba2.jpg" alt="" class="projects__img">
+            <div class="projects__modal">
+              <span class="projects__subtitle">Proyectos personales</span>
+              <h3 class="projects__title">Elaborados para mi beneficio</h3>
+              <a href="/personales" class="projects__button button button__small"><i class="ri-links-fill"></i></a>
+            </div>
+          </article>
+
+          <article class="projects__card">
+            <img src="/static/media/img/redes/CatastroMulti/IMG_20220804_161813.jpg" alt="" class="projects__img">
+            <div class="projects__modal">
+              <span class="projects__subtitle"> Redes</span>
+              <h3 class="projects__title">Proyectos de cableado estructurado</h3>
+              <a href="/redes" class="projects__button button button__small"><i class="ri-links-fill"></i></a>
+            </div>
+          </article>
+
+          <article class="projects__card">
+            <img src="/static/media/img/Programacion/programando.jpg" alt="" class="projects__img">
+            <div class="projects__modal">
+              <span class="projects__subtitle">Programación</span>
+              <h3 class="projects__title">Generacion de aplicaciones y softwares para diferentes establecimientos</h3>
+              <a href="https://github.com/RmrEleProy" target="_blank" class="projects__button button button__small"><i class="ri-links-fill"></i></a>
+            </div>
+          </article>
+
+          <article class="projects__card">
+            <img src="/static/media/img/energiaSolar/60 paneles 11 de noviembre/IMG_20220822_081607.jpg" alt="panel en techo" class="projects__img">
+            <div class="projects__modal">
+              <span class="projects__subtitle">Solar</span>
+              <h3 class="projects__title">Proyectos de energia solar</h3>
+              <a href="/solar" class="projects__button button button__small"><i class="ri-links-fill"></i></a>
+            </div>
+          </article>
+
+        </div>
+
+        <!-- HABILIDADES -->
+        <div class="skills__content grid filters__desactivated" data-content id="habilidades">
+
+          <div class="skill__area">
+            <h3 class="skill__tittle">Desarrollo en frontend y backend</h3>
+            <div class="skill__box">
+
+              <div class="skill__group">
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">HTML</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">CSS</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">GO</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">VHDL y ASEMBLER</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="skill__group">
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">JavaScript</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">KOTLIN</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">Bases de datos</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">Java</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="skill__area">
+            <h3 class="skill__tittle">Desarrollo en Telecomunicaciones</h3>
+            <div class="skill__box">
+
+              <div class="skill__group">
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">Apuntamiento de antenas</h3>
+                    <span class="skill__level">AVANZADO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">configuracion de equipos</h3>
+                    <span class="skill__level">AVANZADO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">DISEÑO DE REDES</h3>
+                    <span class="skill__level">AVANZADO</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="skill__group">
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">DISEÑO ELECTRONICO ANALOGICO</h3>
+                    <span class="skill__level">AVANZADO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">DISEÑO ELECTRONICO DIGITAL</h3>
+                    <span class="skill__level">AVANZADO</span>
+                  </div>
+                </div>
+
+                <div class="skill__data">
+                  <i class="ri-check-double-fill"></i>
+                  <div>
+                    <h3 class="skill__name">HERRAMIENTAS CAD</h3>
+                    <span class="skill__level">MEDIO</span>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </main>
+  {{template "footer"}}
+  <script src="/static/js/script.js"></script>
+</body>
+
+</html>
