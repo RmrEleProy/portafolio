@@ -1,9 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
-{{template "cabeza"}}
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Lemonada:wght@300&family=Righteous&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="/static/media/img/favicon.ico" type="image/x-icon"> <!--favicon-->
+        <!-- REMIX ICON -->
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+        <!-- CSS -->
+        <!-- <link rel="stylesheet" href="/static/css/normalize.css"> -->
+        <link rel="stylesheet" href="/static/css/estilos.css">
+        <link rel="stylesheet" href="/static/css/reutilizables.css">
+        <title>Mi portafolio</title>
+      </head>
 
 <body>
-    {{template "cabecera"}}
+  <!-- HEADER PROFILE -->
+  <header class="profile container">
+    <!-- theme button -->
+    <i class="ri-moon-fill change-theme" id="theme-button"></i>
+
+    <div class="profile__container grid">
+        <div class="profile__data">
+            <div class="profile__border">
+                <div class="profile__perfil">
+                    <img src="/static/media/img/perfil.jpg" alt="imagen de perfil">
+                </div>
+            </div>
+
+            <h2 class="profile__name">Roymer Javier López Castro</h2>
+            <h3 class="profile__profession">Ingeniero Electronico</h3>
+
+            <ul class="profile__social">
+                <a href="" target="_blank" class="profile__social-link"><i class="ri-instagram-line"></i></a>
+                <a href="https://co.linkedin.com/in/roymer-lopez-castro" target="_blank" class="profile__social-link"><i class="ri-linkedin-box-fill"></i></a>
+                <a href="https://github.com/RmrEleProy" target="_blank" class="profile__social-link"><i class="ri-github-fill"></i></a>
+            </ul>
+        </div>
+
+        <div class="profile__info grid">
+            <div class="profile__info-group">
+                <h3 class="profile__info-number">10</h3>
+                <p class="profile__info-description">años de<br>experiencia</p>
+            </div>
+            <div class="profile__info-group">
+                <h3 class="profile__info-number">+104</h3>
+                <p class="profile__info-description">proyectos <br> completados</p>
+            </div>
+            <div class="profile__info-group">
+                <h3 class="profile__info-number">100</h3>
+                <p class="profile__info-description">clientes <br> satisfechos</p>
+            </div>
+        </div>
+        <div class="profile__buttons">
+            <a href="/Vistas/Curriculum.html" class="button">
+                Curriculum <i class="ri-profile-line"></i></a>
+            <div class="profile__buttons-small">
+                <!-- <a href="https://api.whatsapp.com/send?phone=573006376372&text=Hola," target="_blank" class="button button_small button__gray"><i class="ri-whatsapp-fill"></i></a> -->
+                <a href="https://api.whatsapp.com/send?phone=61452497535&text=---," target="_blank" class="button button_small button__gray"><i class="ri-whatsapp-fill"></i></a>
+                <a href="https://m.me/roymer.lopezcastro" target="_blank" class="button button_small button__gray"><i class="ri-messenger-fill"></i></a>
+            </div>
+        </div>
+    </div>
+</header>
     <main>
         <ul class="contenedor__botones">
             <a href="/" class="button ">Home<i class="ri-home-8-fill"></i></a>
@@ -85,7 +144,11 @@
         </div>
     </main>
 </body>
-{{template "footer"}}
+<footer class="footer container">
+    <span class="footer__copy">
+        &#169; todos los derechos recervados
+    </span>
+</footer>
 <script src="/static/js/script.js"></script>
 
 </html>
