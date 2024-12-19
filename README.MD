@@ -12,7 +12,7 @@ Soy un ingeniero electrónico con más de 8 años de experiencia en el campo de 
 
 - **Programación**: Soy competente en una variedad de lenguajes de programación, incluyendo:
   - Go
-  - Kotlin
+  - flutter
   - VHDL
   - Ensamblador
   - JavaScript
