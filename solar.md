@@ -1,6 +1,6 @@
 # ☀️ Proyectos de Energía Solar
 
-[![Volver al Portafolio](https://img.shields.io/badge/◀_Volver_al_Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](README.md)
+[![Volver al Portafolio](https://img.shields.io/badge/◀_Volver_al_Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](README.MD)
 
 ---
 
