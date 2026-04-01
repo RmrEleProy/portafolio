@@ -39,11 +39,11 @@ Manejo plataformas como **Docker**, **GitHub** y **Heroku** para despliegue y co
 | Tecnología | Nivel |
 |---|---|
 | HTML / CSS | ████████░░ Medio |
-| JavaScript | ████████░░ Medio |
+| tinyGO | ████████░░ Alto |
 | Go (Golang) | ████████░░ Medio |
-| Kotlin | ████████░░ Medio |
+| Flutter | ████████░░ Medio |
 | Java | ████████░░ Medio |
-| VHDL / Assembler | ████████░░ Medio |
+| VHDL / Assembler | ████████░░ Alto |
 | Bases de datos (PostgreSQL) | ████████░░ Medio |
 
 ### Telecomunicaciones & Electrónica
@@ -56,6 +56,7 @@ Manejo plataformas como **Docker**, **GitHub** y **Heroku** para despliegue y co
 | Diseño electrónico analógico | ██████████ Avanzado |
 | Diseño electrónico digital | ██████████ Avanzado |
 | Herramientas CAD (Autocad) | ████████░░ Medio |
+| Herramientas CAD (Kicad) | ████████░░ Avanzado |
 | Microsoft Project / Excel | ████████░░ Medio |
 
 ---
@@ -96,12 +97,12 @@ Manejo plataformas como **Docker**, **GitHub** y **Heroku** para despliegue y co
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="sincelejo_rack_contraloria_terminado.jpg" width="100%" alt="Rack Contraloría Sincelejo terminado"/><br/>
+      <img src="sincelejo rack contraloria terminado.jpg" width="100%" alt="Rack Contraloría Sincelejo terminado"/><br/>
       <b>Contraloría Sincelejo — Rack terminado</b><br/>
       <sub>Instalación de cableado estructurado y armado de rack</sub>
     </td>
     <td align="center" width="50%">
-      <img src="sincelejo_rack_contraloria.jpg" width="100%" alt="Rack Contraloría Sincelejo en proceso"/><br/>
+      <img src="sincelejo rack contraloria.jpg" width="100%" alt="Rack Contraloría Sincelejo en proceso"/><br/>
       <b>Contraloría Sincelejo — En proceso</b><br/>
       <sub>Montaje y organización del rack de red</sub>
     </td>
