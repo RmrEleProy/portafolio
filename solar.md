@@ -12,46 +12,13 @@ Instalaciones de sistemas de generación de energía fotovoltaica realizadas en 
 
 > Proyecto de generación de energía por medio de paneles solares, realizado en la entrada del barrio Yucal en Santa Marta.
 
-<table>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="11_nov_bodeg (1).jpg" width="100%" alt="Bodega Yucal 1"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="11_nov_bodeg (2).jpg" width="100%" alt="Bodega Yucal 2"/>
-    </td>
-
-  </tr>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="11_nov_bodeg (3).jpg" width="100%" alt="Bodega Yucal 3"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="11_nov_bodeg (4).jpg" width="100%" alt="Bodega Yucal 4"/>
-    </td>
-
-  </tr>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="11_nov_bodeg (5).jpg" width="100%" alt="Bodega Yucal 5"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="11_nov_bodeg (6).jpg" width="100%" alt="Bodega Yucal 6"/>
-    </td>
-
-  </tr>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="11_nov_bodeg (7).jpg" width="100%" alt="Bodega Yucal 7"/>
-    </td>
-    <td align="center" width="50%"></td>
-
-  </tr>
-</table>
+![Bodega Yucal 1](11_nov_bodeg%20(1).jpg)
+![Bodega Yucal 2](11_nov_bodeg%20(2).jpg)
+![Bodega Yucal 3](11_nov_bodeg%20(3).jpg)
+![Bodega Yucal 4](11_nov_bodeg%20(4).jpg)
+![Bodega Yucal 5](11_nov_bodeg%20(5).jpg)
+![Bodega Yucal 6](11_nov_bodeg%20(6).jpg)
+![Bodega Yucal 7](11_nov_bodeg%20(7).jpg)
 
 ---
 
@@ -59,18 +26,8 @@ Instalaciones de sistemas de generación de energía fotovoltaica realizadas en 
 
 > Proyecto de energía solar realizado en fincas de la Zona Bananera en el Magdalena.
 
-<table>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="zona_bananera (1).jpg" width="100%" alt="Zona Bananera 1"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="zona_bananera (2).jpg" width="100%" alt="Zona Bananera 2"/>
-    </td>
-
-  </tr>
-</table>
+![Zona Bananera 1](zona_bananera%20(1).jpg)
+![Zona Bananera 2](zona_bananera%20(2).jpg)
 
 ---
 
@@ -78,41 +35,12 @@ Instalaciones de sistemas de generación de energía fotovoltaica realizadas en 
 
 > Instalación de paneles para la generación eléctrica en un camping del Parque Tayrona.
 
-<table>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="BJ_cabin_tayrona (1).jpg" width="100%" alt="Cabaña Tayrona 1"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="BJ_cabin_tayrona (2).jpg" width="100%" alt="Cabaña Tayrona 2"/>
-    </td>
-
-  </tr>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="BJ_cabin_tayrona (3).jpg" width="100%" alt="Cabaña Tayrona 3"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="BJ_cabin_tayrona (7).jpg" width="100%" alt="Cabaña Tayrona 4"/>
-    </td>
-
-  </tr>
-  <tr>
-
-    <td align="center" width="50%">
-      <img src="BJ_cabin_tayrona (8).jpg" width="100%" alt="Cabaña Tayrona 5"/>
-    </td>
-    <td align="center" width="50%"></td>
-
-  </tr>
-</table>
+![Cabaña Tayrona 1](BJ_cabin_tayrona%20(1).jpg)
+![Cabaña Tayrona 2](BJ_cabin_tayrona%20(2).jpg)
+![Cabaña Tayrona 3](BJ_cabin_tayrona%20(3).jpg)
+![Cabaña Tayrona 4](BJ_cabin_tayrona%20(7).jpg)
+![Cabaña Tayrona 5](BJ_cabin_tayrona%20(8).jpg)
 
 ---
 
-<div align="center">
-
 *© Todos los derechos reservados — Roymer Javier López Castro*
-
-</div>
