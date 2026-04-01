@@ -178,7 +178,7 @@ Proyectos de generación de energía por medio de paneles solares en diversas ub
 - 🌿 **Fincas de la Zona Bananera** — Magdalena (2 instalaciones)
 - 🏕️ **Cabaña Bermúdez** — Parque Tayrona (5 instalaciones)
 
-> *Ver galería completa en [solar.html](solar.html)*
+> *Ver galería completa en [☀️ solar.md](solar.md)*
 
 ---
 
